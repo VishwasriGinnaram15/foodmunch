@@ -16,4 +16,5 @@ Stay connected with FoodMunch through our social media links and updates, ensuri
 
 ## 🛠 Technologies Used
 - HTML, CSS
+- Bootstrap
 - Deployed on Vercel
